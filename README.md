@@ -1,5 +1,4 @@
 <h1 align="center"><b>Hi, I'm Sajim Ahmed</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1200&height=100&lines=AI/ML+Engineer+%7C+Researcher+%7C+Problem+Solver;Passionate+About+AI+in+Healthcare;Let’s+Automate+the+Future!&hearts;">
@@ -14,9 +13,8 @@
 - 🛠️ Currently developing ML solutions with **hardware acceleration** and **MLOps workflows**.
 - 🌍 Open to research collaborations and internship opportunities in AI/ML.
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> **Projects**
+### <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> **Projects**
 <div align="center">
-### 🚀 **Highlighted Projects**
 
 <table>
   <tr>
