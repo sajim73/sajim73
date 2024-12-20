@@ -6,8 +6,6 @@
   </a>
 </p>
 
----
-
 ## **About Me**
 
 - 🚀 **Machine Learning & AI Engineer** specializing in Computer Vision and Federated Learning.
@@ -15,8 +13,6 @@
 - 🎓 Undergraduate Researcher at **SPEN Lab** working on **networking and operating systems integration in AI**.
 - 🛠️ Currently developing ML solutions with **hardware acceleration** and **MLOps workflows**.
 - 🌍 Open to research collaborations and internship opportunities in AI/ML.
-
----
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> **Skills**
 
