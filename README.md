@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## **About Me**
+### **About Me**
 
 - 🚀 **Machine Learning & AI Engineer** specializing in Computer Vision and Federated Learning.
 - 🌟 Passionate about **AI applications in Healthcare** for early disease detection.
