@@ -14,27 +14,29 @@
 - 🛠️ Currently developing ML solutions with **hardware acceleration** and **MLOps workflows**.
 - 🌍 Open to research collaborations and internship opportunities in AI/ML.
 
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> **Projects**
+<div align="center">
 ### 🚀 **Highlighted Projects**
 
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/sajim73/Lung-Cancer-Detection">
-        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="Lung Cancer Detection Project Logo" /><br>
+        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="120" alt="Lung Cancer Detection Project Logo" /><br>
         <b>Lung Cancer Detection</b><br>
         <i>Deep Learning for medical imaging</i>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/sajim73/Fake-News-Detector">
-        <img src="https://media.giphy.com/media/1xVdX6ExFch9w/giphy.gif" width="100" alt="Fake News Detection Project Logo" /><br>
+        <img src="https://media.giphy.com/media/1xVdX6ExFch9w/giphy.gif" width="120" alt="Fake News Detection Project Logo" /><br>
         <b>Fake News Detection</b><br>
         <i>NLP & Ensemble Learning</i>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/sajim73/Pneumonia-Detection">
-        <img src="https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif" width="100" alt="Pneumonia Detection Project Logo" /><br>
+        <img src="https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif" width="120" alt="Pneumonia Detection Project Logo" /><br>
         <b>Pneumonia Detection</b><br>
         <i>Federated Learning & Hardware Acceleration</i>
       </a>
@@ -43,21 +45,21 @@
   <tr>
     <td align="center">
       <a href="https://github.com/sajim73/Insider-Threat-Prediction">
-        <img src="https://media.giphy.com/media/3o7aCU5DVu8lsOfZ3y/giphy.gif" width="100" alt="Insider Threat Project Logo" /><br>
+        <img src="https://media.giphy.com/media/3o7aCU5DVu8lsOfZ3y/giphy.gif" width="120" alt="Insider Threat Project Logo" /><br>
         <b>Insider Threat Prediction</b><br>
         <i>Behavioral Analysis</i>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/sajim73/Advisement-Scheduler">
-        <img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="100" alt="Advisement Scheduler Project Logo" /><br>
+        <img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="120" alt="Advisement Scheduler Project Logo" /><br>
         <b>Advisement Scheduler</b><br>
         <i>Student Academic Planning Tool</i>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/sajim73/Rock-Paper-Scissor">
-        <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="100" alt="Rock Paper Scissors Game Logo" /><br>
+        <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="120" alt="Rock Paper Scissors Game Logo" /><br>
         <b>Rock-Paper-Scissors AI</b><br>
         <i>Game-based ML</i>
       </a>
@@ -103,9 +105,6 @@
   <img src="https://img.shields.io/badge/Homomorphic%20Encryption-9B9B9B?style=for-the-badge&logo=python&logoColor=white" height="35px">
 </p>
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> **Projects**
-
-<div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Stats**
 
@@ -118,7 +117,6 @@
   </a>
 </div>
 
----
 
 ## <b>Let’s Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50">
 
@@ -131,7 +129,6 @@
   </a></li>
 </ul>
 
----
 
 <p align="center">
 <b>“Turning ideas into reality with AI.”</b>
