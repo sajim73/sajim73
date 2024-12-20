@@ -14,48 +14,6 @@
 - 🛠️ Currently developing ML solutions with **hardware acceleration** and **MLOps workflows**.
 - 🌍 Open to research collaborations and internship opportunities in AI/ML.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> **Skills**
-
-<p align="center">
-  <!-- Programming & Frameworks -->
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="35px">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35px">
-</p>
-
-<p align="center">
-  <!-- AI/ML Techniques -->
-  <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge&logo=python&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Dimensionality%20Reduction-2196F3?style=for-the-badge&logo=python&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Data%20Augmentation-FF9800?style=for-the-badge&logo=python&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Convolutional%20Neural%20Networks-3F51B5?style=for-the-badge&logo=python&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Recurrent%20Neural%20Networks-9C27B0?style=for-the-badge&logo=python&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Transfer%20Learning-FF5722?style=for-the-badge&logo=python&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Federated%20Learning-009688?style=for-the-badge&logo=python&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-795548?style=for-the-badge&logo=python&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Text%20Classification-607D8B?style=for-the-badge&logo=python&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Sentiment%20Analysis-673AB7?style=for-the-badge&logo=python&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/NER-FFC107?style=for-the-badge&logo=python&logoColor=white" height="35px">
-</p>
-
-<p align="center">
-  <!-- Tools & Optimization -->
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Google%20Cloud%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Homomorphic%20Encryption-9B9B9B?style=for-the-badge&logo=python&logoColor=white" height="35px">
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> **Projects**
-
-<div align="center">
-
 ### 🚀 **Highlighted Projects**
 
 <table>
@@ -109,6 +67,45 @@
 
 </div>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> **Skills**
+
+<p align="center">
+  <!-- Programming & Frameworks -->
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="35px">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35px">
+</p>
+
+<p align="center">
+  <!-- AI/ML Techniques -->
+  <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge&logo=python&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Dimensionality%20Reduction-2196F3?style=for-the-badge&logo=python&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Data%20Augmentation-FF9800?style=for-the-badge&logo=python&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Convolutional%20Neural%20Networks-3F51B5?style=for-the-badge&logo=python&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Recurrent%20Neural%20Networks-9C27B0?style=for-the-badge&logo=python&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Transfer%20Learning-FF5722?style=for-the-badge&logo=python&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Federated%20Learning-009688?style=for-the-badge&logo=python&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-795548?style=for-the-badge&logo=python&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Text%20Classification-607D8B?style=for-the-badge&logo=python&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Sentiment%20Analysis-673AB7?style=for-the-badge&logo=python&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/NER-FFC107?style=for-the-badge&logo=python&logoColor=white" height="35px">
+</p>
+
+<p align="center">
+  <!-- Tools & Optimization -->
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/Homomorphic%20Encryption-9B9B9B?style=for-the-badge&logo=python&logoColor=white" height="35px">
+</p>
+
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> **Projects**
+
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Stats**
 
