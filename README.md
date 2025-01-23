@@ -42,10 +42,10 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/sajim73/Insider-Threat-Prediction">
-        <img src="https://media.giphy.com/media/3o7aCU5DVu8lsOfZ3y/giphy.gif" width="120" alt="Insider Threat Project Logo" /><br>
-        <b>Insider Threat Prediction</b><br>
-        <i>Behavioral Analysis</i>
+      <a href="https://github.com/sajim73/Projects/tree/main/Admission%20Chance%20Prediction">
+        <img src="https://media.giphy.com/media/3o7aCU5DVu8lsOfZ3y/giphy.gif" width="120" alt="Admission Decision Prediction Project Logo" /><br>
+        <b>Admission Decision Prediction</b><br>
+        <i>Regression Problem</i>
       </a>
     </td>
     <td align="center">
