@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/sajim73/Handwritten-Digit-Recognition">
+      <a href="https://github.com/sajim73/Projects/Handwritten Digit Recognition">
         <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="120" alt="Handwritten Digit Recognition Project Logo" /><br>
         <b>Handwritten Digit Recognition</b><br>
         <i>Deep Learning for Digit Recognition</i>
