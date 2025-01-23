@@ -19,10 +19,10 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/sajim73/Lung-Cancer-Detection">
-        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="120" alt="Lung Cancer Detection Project Logo" /><br>
-        <b>Lung Cancer Detection</b><br>
-        <i>Deep Learning for medical imaging</i>
+      <a href="https://github.com/sajim73/Handwritten-Digit-Recognition">
+        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="120" alt="Handwritten Digit Recognition Project Logo" /><br>
+        <b>Handwritten Digit Recognition</b><br>
+        <i>Deep Learning for Digit Recognition</i>
       </a>
     </td>
     <td align="center">
