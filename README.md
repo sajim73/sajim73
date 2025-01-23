@@ -49,10 +49,10 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/sajim73/Advisement-Scheduler">
+      <a href="https://github.com/sajim73/Projects/tree/main/Restraunt%20Profit%20Prediction%20(Linear%20Regression)">
         <img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="120" alt="Advisement Scheduler Project Logo" /><br>
-        <b>Advisement Scheduler</b><br>
-        <i>Student Academic Planning Tool</i>
+        <b>Linear Regression </b><br>
+        <i>(Single Variable)</i>
       </a>
     </td>
     <td align="center">
