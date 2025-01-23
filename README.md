@@ -26,10 +26,10 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/sajim73/Fake-News-Detector">
-        <img src="https://media.giphy.com/media/1xVdX6ExFch9w/giphy.gif" width="120" alt="Fake News Detection Project Logo" /><br>
-        <b>Fake News Detection</b><br>
-        <i>NLP & Ensemble Learning</i>
+      <a href="https://github.com/sajim73/Projects/tree/main/Microchip%20Quality%20Assurance%20Prediction">
+        <img src="https://media.giphy.com/media/1xVdX6ExFch9w/giphy.gif" width="120" alt="Microchip Quality Assurance Prediction Project Logo" /><br>
+        <b>Microchip Quality Assurance Prediction</b><br>
+        <i>Regularized Logistic Regression</i>
       </a>
     </td>
     <td align="center">
